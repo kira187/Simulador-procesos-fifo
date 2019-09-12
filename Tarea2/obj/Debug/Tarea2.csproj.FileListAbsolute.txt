@@ -1,0 +1,10 @@
+C:\Users\me12345\Desktop\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\me12345\Desktop\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\me12345\Desktop\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.Main.resources
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\me12345\Desktop\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
